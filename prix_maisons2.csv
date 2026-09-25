@@ -1,0 +1,19 @@
+area,rooms,age,city,price
+100,3,4,Casablanca, 1500000
+120,4,10,Casablanca,1680000
+260,,20,Casablanca,3380000
+190,5,1,Casablanca,3040000
+260,5,4,Casablanca,3900000
+60,2,3,Casablanca,1080000
+100,3,4,Marrakech, 1400000
+120,4,10,Marrakech,1580000
+260,5,20,Marrakech,3280000
+190,5,1,Marrakech,2900000
+260,,4,Marrakech,3000000
+60,2,3,Marrakech,860000
+100,3,4,Tanger, 1480000
+120,4,10,Tanger,1600000
+260,5,20,Tanger,3300000
+190,5,1,Tanger,3000000
+260,,4,Tanger,3000000
+60,2,3,Tanger,1000000
